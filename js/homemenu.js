@@ -2,6 +2,6 @@
   "use strict";
 
   $(function () {
-    $(".homemenu-container").load("homemenu.html");
+    $(".menu-container").load("homemenu.html");
   });
 })();
