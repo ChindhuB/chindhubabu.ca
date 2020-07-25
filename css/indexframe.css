@@ -192,7 +192,7 @@ hr {
   box-sizing: border-box;
 }
 
-.flex-row-space-between {
+.index-row-space-between {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -212,7 +212,7 @@ hr {
   box-sizing: border-box;
 }
 
-.flex-row-center {
+.index-row-center {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
