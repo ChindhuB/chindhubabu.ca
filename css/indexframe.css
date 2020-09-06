@@ -207,6 +207,15 @@ hr {
   align-content: stretch;
   box-sizing: border-box;
 }
+.index-row1 {
+  display: inline;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: stretch;
+  box-sizing: border-box;
+}
 
 .index-row-center {
   display: flex;
